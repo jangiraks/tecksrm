@@ -12,6 +12,7 @@
     "name": "typicode"
   },
   "tableA":[
-    {"columnA":"column value a"}
+    {"id":1, "columnA":"column value a"},
+     {"id":2, "columnB":"column value b"}
     ]
 }
