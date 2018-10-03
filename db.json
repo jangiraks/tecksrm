@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "tableA":{
-    "columnA":"column value a"
-  }
+  "tableA":[
+    {"columnA":"column value a"}
+    ]
 }
